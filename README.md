@@ -1,3 +1,6 @@
+# ACM Frontend Challenge B - Dog Trading App by Jack Myrick
+To run the website, clone the repository and run 'npm start' to run the app in development mode. More information on this is below. I used React and TypeScript to create this. To look at the code, start at App.tsx in the src folder. Other important files are Dog.tsx, Breed.tsx, and DogDisplay.tsx.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
